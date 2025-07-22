@@ -56,6 +56,9 @@
 
 ###
 
-<p align="left">## 📚 Recent Projects<br><br>| Project                        | Description                                                                                     |<br>|--------------------------------|-------------------------------------------------------------------------------------------------|<br>| TwinIQ – AI Assistant          | An intelligent AI chatbot built with Streamlit and Gemini-Pro, designed for dynamic, multi-functional interactions using agentic workflows. |<br>| NutriVision – AI Nutrition App | A computer vision–powered app that analyzes meals and provides personalized nutritional insights using LLMs and image processing APIs. |<br>| Digit Recognition System       | Built a machine learning model to recognize handwritten digits using the MNIST dataset; trained and evaluated using scikit-learn and visualized results with Matplotlib. |<br>| Power BI Dashboards            | Designed and deployed interactive dashboards for HR analytics, sales forecasting, and customer churn using Power BI, DAX, and SQL. |</p>
-
-###
+<p align="left"   🛠️Recent Project
+  | 🧠 Project Name                  | 💡 Description                                                                                     | 🔗 Tech Stack Used                                       |                                          |
+|----------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------|
+| **TwinIQ – AI-Powered Chatbot** | A multi-agent AI chatbot using Gemini 1.5 with context memory and multi-turn conversation support. | Streamlit, Gemini 1.5, Python, LangChain                                      |
+| **NutriVision**                 | AI-based food calorie detection system using image recognition and nutrition API integration.       | Python, TensorFlow, OpenCV, Gemini API                                                    |
+| **Digit Recognition System**    | Handwritten digit recognition app trained on MNIST dataset with a Streamlit interface.             | Python, TensorFlow, Streamlit                 
