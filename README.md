@@ -1,64 +1,97 @@
-<h2 align="left">Hi 👋! My name is Adiraj Shiwarkar</h2>
+# 🛠️ Hi, I'm Adiraj Shiwarkar
 
-###
+### 👨‍💻 AI/ML Engineer | Data Analyst
 
-<p align="left">Hello World!!  <br>I’m Adiraj Shiwarkar, a dedicated AI/ML developer currently pursuing my B.Tech, with hands-on experience in building real-world intelligent systems. I specialize in developing AI-powered applications using tools like Streamlit, OpenAI/Gemini APIs, and RESTful architectures. My portfolio includes projects like TwinIQ, a smart AI assistant built with agentic workflows and Gemini-Pro for dynamic user interactions, and NutriVision, a computer vision–driven health app that analyzes meals and delivers personalized nutritional insights using LLMs. I’ve also worked on Health-Mate, a healthcare supply chain optimization project leveraging machine learning and predictive analytics. Alongside my technical skills, I bring strong communication, creative problem-solving, and project management abilities from my experience as a digital marketing intern and content creator. I’m passionate about turning ideas into impactful, user-driven AI solutions and continuously expanding my expertise in LLMs, automation, and data science.</p>
+---
 
-###
+## 📜 About Me
 
-<div align="left">
-  <a href="adirajshiwarkar12a@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+I'm Adiraj Shiwarkar, a dedicated AI/ML developer currently pursuing my B.Tech, with hands-on experience in building real-world intelligent systems. I specialize in developing AI-powered applications using tools like **Streamlit**, **OpenAI/Gemini APIs**, and **RESTful architectures**.
+
+My portfolio includes:
+
+* 🧠 **TwinIQ** – A smart AI assistant built with agentic workflows and Gemini-Pro for dynamic user interactions
+* 🥗 **NutriVision** – A computer vision–driven health app that analyzes meals and delivers personalized nutritional insights using LLMs
+* 🔢 **Digit Recognition System** – A classic ML project using CNNs to identify handwritten digits
+
+Alongside my technical skills, I bring strong communication, creative problem-solving, and project management abilities from my experience as a digital marketing intern and content creator. I'm passionate about turning ideas into impactful, user-driven AI solutions and continuously expanding my expertise in **LLMs, automation, and data science**.
+
+---
+
+## 📈 GitHub Stats & Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdirajShiwarkar&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdirajShiwarkar&layout=compact&theme=tokyonight" alt="Languages Used"/>
+</p>
+
+---
+
+## 🧰 Tech Stack & Tools
+
+<p align="center">
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/> Python</code>
+  <code><img height="50" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit"/> Streamlit</code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter"/> Jupyter</code>
+  <code><img height="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn"/> Seaborn</code>
+  <code><img height="50" src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib"/> Matplotlib</code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"/> TensorFlow</code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras"/> Keras</code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy"/> NumPy</code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas"/> Pandas</code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/> MySQL</code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/> VSCode</code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda"/> Anaconda</code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm"/> PyCharm</code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/> GitHub</code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/> Git</code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn"/> Scikit-learn</code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV"/> OpenCV</code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle"/> Kaggle</code>
+</p>
+
+---
+
+## 📂 Recent Projects
+
+| Project Name      | Description                                                                      | Tech Stack Used                       |
+| ----------------- | -------------------------------------------------------------------------------- | ------------------------------------- |
+| TwinIQ            | AI assistant with agentic workflow powered by Gemini-Pro and Streamlit           | Python, Streamlit, Gemini API         |
+| NutriVision       | Vision-based nutrition advisor that provides health analysis based on meal input | Python, OpenCV, Gemini 1.5, Streamlit |
+| Digit Recognition | ML-based app recognizing handwritten digits using CNN                            | Python, TensorFlow, Keras             |
+
+---
+
+## 🏅 Certifications
+
+| 📜 Certification Title                                       | 🏢 Provider / Platform                   | 🗓️ Issued / Completed           |
+| ------------------------------------------------------------ | ---------------------------------------- | -------------------------------- |
+| GenAI Job Simulation                                         | Boston Consulting Group (BCG) via Forage | June 2025                        |
+| GenAI‑Powered Data Analytics Job Simulation                  | Tata Group via Forage                    | June 2025                        |
+| Data Analytics Job Simulation                                | Deloitte via Forage                      | June 2025                        |
+| Real‑World Data Analytics Virtual Job Simulation             | Quantium via Forage                      | July 2025 *(shared 2 weeks ago)* |
+| The Complete Data Structures and Algorithms Course in Python | Elshad Karimov – Udemy                   | August 13, 2024                  |
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adiraj-shiwarkar" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
   </a>
-  <a href="https://www.linkedin.com/in/adiraj-shiwarkar-959599251/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="mailto:adirajshiwarkar12a@gmail.com" target="_blank">
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail"/>
   </a>
-</div>
+</p>
 
-###
+️ Thanks for visiting my GitHub!
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Adirajshiwarkar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adirajshiwarkar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
 
-<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMxMjY3MjQsIm5iZiI6MTc1MzEyNjQyNCwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIxVDE5MzM0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRiYjhiODYwYzI0MDQ2MDM5OWM3MDJlMDBjZTM5OGNjODJmNTJhZTExZmJiOWU4MmI1ODMxY2VhNzA5NjQxYjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sxQ7JGEhtdGwP9Q8GuggeA-siQuVv5PyIqUZ99IK1BE"  />
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-   <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cf14f855-d2e4-48f6-837f-03ddbd848327" />
-"  /
-</div>
 
-###
-
-<p align="left">🎓 Certifications & Recognitions <br>1.GenAI Job Simulation – Boston Consulting Group (BCG), issued June 2025 <br>2.Data Analytics Job Simulation – Deloitte via Forage, completed June 2025<br>3.Real‑World Data Analytics Virtual Job Simulation – Quantium via Forage ,in 2025<br>4.GenAI‑Powered Data Analytics Job Simulation – Tata Group via Forage, completed June 2025<br>5.The Complete Data Structures and Algorithms Course in Python – Elshad Karimov (Udemy), certificate issued August 13, 2024 <br>6.Alteryx Designer Core - Issued in 2024</p>
-
-###
-
-<p align="left"   🛠️Recent Project
-  | 🧠 Project Name                  | 💡 Description                                                                                     | 🔗 Tech Stack Used                                       |                                          |
-|----------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------|
-| **TwinIQ – AI-Powered Chatbot** | A multi-agent AI chatbot using Gemini 1.5 with context memory and multi-turn conversation support. | Streamlit, Gemini 1.5, Python, LangChain                                      |
-| **NutriVision**                 | AI-based food calorie detection system using image recognition and nutrition API integration.       | Python, TensorFlow, OpenCV, Gemini API                                                    |
-| **Digit Recognition System**    | Handwritten digit recognition app trained on MNIST dataset with a Streamlit interface.             | Python, TensorFlow, Streamlit                 
