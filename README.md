@@ -14,7 +14,7 @@ I'm Adiraj Shiwarkar, an AI/ML developer passionate about building intelligent, 
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdirajShiwarkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=AdirajShiwarkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
 ### 📊 Languages Used
@@ -41,7 +41,10 @@ I'm Adiraj Shiwarkar, an AI/ML developer passionate about building intelligent, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" height="24"/>&nbsp;<sub>PyCharm</sub>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" height="24"/>&nbsp;<sub>Kaggle</sub>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" height="24"/>&nbsp;<sub>Scikit-Learn</sub>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" height="24"/>&nbsp;<sub>OpenCV</sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" height="24"/>&nbsp;<sub>OpenCV</sub>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="Anaconda" height="24"/>&nbsp;<sub>Anaconda</sub>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="Apache Spark" height="24"/>&nbsp;<sub>Apache Spark</sub>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" height="24"/>&nbsp;<sub>FastAPI</sub>
 </p>
 
 ---
@@ -80,6 +83,7 @@ I'm Adiraj Shiwarkar, an AI/ML developer passionate about building intelligent, 
 </p>
 
 ---
+
 
 
 
