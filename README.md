@@ -1,94 +1,92 @@
-# 🛠️ Hi, I'm Adiraj Shiwarkar
+---
 
-### 👨‍💻 AI/ML Engineer | Data Analyst
+<h1 align="center">Hi, I'm Adiraj Shiwarkar</h1>
+<p align="center"><b>AI/ML Engineer | Data Analyst</b></p>
 
 ---
 
-## 📜 About Me
+### 🔍 About Me
 
-I'm Adiraj Shiwarkar, a dedicated AI/ML developer currently pursuing my B.Tech, with hands-on experience in building real-world intelligent systems. I specialize in developing AI-powered applications using tools like **Streamlit**, **OpenAI/Gemini APIs**, and **RESTful architectures**.
-
-My portfolio includes:
-
-* 🧠 **TwinIQ** – A smart AI assistant built with agentic workflows and Gemini-Pro for dynamic user interactions
-* 🥗 **NutriVision** – A computer vision–driven health app that analyzes meals and delivers personalized nutritional insights using LLMs
-* 🔢 **Digit Recognition System** – A classic ML project using CNNs to identify handwritten digits
-
-Alongside my technical skills, I bring strong communication, creative problem-solving, and project management abilities from my experience as a digital marketing intern and content creator. I'm passionate about turning ideas into impactful, user-driven AI solutions and continuously expanding my expertise in **LLMs, automation, and data science**.
+I'm Adiraj Shiwarkar, an AI/ML developer passionate about building intelligent, user-centric solutions powered by LLMs, data science, and modern frameworks like Streamlit and TensorFlow. From smart assistants to computer vision apps, I turn real-world problems into impactful AI products. Always exploring, always building—let's connect and innovate together!
 
 ---
 
-## 📈 GitHub Stats & Streak
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdirajShiwarkar&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=AdirajShiwarkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
+### 📊 Languages Used
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdirajShiwarkar&layout=compact&theme=tokyonight" alt="Languages Used"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdirajShiwarkar&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
 ---
 
-## 🧰 Tech Stack & Tools
+### 🛠 Tech Stack & Tools
 
 <p align="center">
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/> Python</code>
-  <code><img height="50" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit"/> Streamlit</code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter"/> Jupyter</code>
-  <code><img height="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn"/> Seaborn</code>
-  <code><img height="50" src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib"/> Matplotlib</code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"/> TensorFlow</code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras"/> Keras</code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy"/> NumPy</code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas"/> Pandas</code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/> MySQL</code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/> VSCode</code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda"/> Anaconda</code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm"/> PyCharm</code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/> GitHub</code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/> Git</code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn"/> Scikit-learn</code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV"/> OpenCV</code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle"/> Kaggle</code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="24"/>&nbsp;<sub>Python</sub>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" title="Streamlit" height="24"/>&nbsp;<sub>Streamlit</sub>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" height="24"/>&nbsp;<sub>Jupyter</sub>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" height="24"/>&nbsp;<sub>Matplotlib</sub>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" height="24"/>&nbsp;<sub>TensorFlow</sub>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" title="Keras" height="24"/>&nbsp;<sub>Keras</sub>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" height="24"/>&nbsp;<sub>MySQL</sub>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" height="24"/>&nbsp;<sub>VSCode</sub>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" height="24"/>&nbsp;<sub>NumPy</sub>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" height="24"/>&nbsp;<sub>Pandas</sub>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" height="24"/>&nbsp;<sub>PyCharm</sub>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" height="24"/>&nbsp;<sub>Kaggle</sub>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" height="24"/>&nbsp;<sub>Scikit-Learn</sub>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" height="24"/>&nbsp;<sub>OpenCV</sub>
 </p>
 
 ---
 
-## 📂 Recent Projects
+### 🏆 Certifications
 
-| Project Name      | Description                                                                      | Tech Stack Used                       |
-| ----------------- | -------------------------------------------------------------------------------- | ------------------------------------- |
-| TwinIQ            | AI assistant with agentic workflow powered by Gemini-Pro and Streamlit           | Python, Streamlit, Gemini API         |
-| NutriVision       | Vision-based nutrition advisor that provides health analysis based on meal input | Python, OpenCV, Gemini 1.5, Streamlit |
-| Digit Recognition | ML-based app recognizing handwritten digits using CNN                            | Python, TensorFlow, Keras             |
-
----
-
-## 🏅 Certifications
-
-| 📜 Certification Title                                       | 🏢 Provider / Platform                   | 🗓️ Issued / Completed           |
-| ------------------------------------------------------------ | ---------------------------------------- | -------------------------------- |
-| GenAI Job Simulation                                         | Boston Consulting Group (BCG) via Forage | June 2025                        |
-| GenAI‑Powered Data Analytics Job Simulation                  | Tata Group via Forage                    | June 2025                        |
-| Data Analytics Job Simulation                                | Deloitte via Forage                      | June 2025                        |
-| Real‑World Data Analytics Virtual Job Simulation             | Quantium via Forage                      | July 2025 *(shared 2 weeks ago)* |
-| The Complete Data Structures and Algorithms Course in Python | Elshad Karimov – Udemy                   | August 13, 2024                  |
+* GenAI Job Simulation – Boston Consulting Group (BCG), issued June 2025
+* Data Analytics Job Simulation – Deloitte via Forage, completed June 2025
+* Real‑World Data Analytics Virtual Job Simulation – Quantium via Forage
+* GenAI‑Powered Data Analytics Job Simulation – Tata Group via Forage, June 2025
+* The Complete Data Structures and Algorithms Course in Python – Elshad Karimov (Udemy), Aug 2024
 
 ---
 
-## 🌐 Connect with Me
+### 💼 Recent Projects
+
+| Project                      | Description                                                                                                                  |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **TwinIQ**                   | A smart AI assistant powered by Gemini-Pro, featuring agentic workflows and personalized responses using LLMs.               |
+| **NutriVision**              | A computer vision–based app that detects food items and provides personalized nutritional insights using OpenAI/Gemini APIs. |
+| **Digit Recognition System** | Handwritten digit recognition system using CNNs with TensorFlow and Keras.                                                   |
+| **HR Analytics Dashboard**   | Interactive Power BI dashboard to analyze HR data trends, attrition patterns, and performance metrics.                       |
+
+---
+
+### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adiraj-shiwarkar" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/adiraj-shiwarkar-9612a3269/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
   </a>
-  <a href="mailto:adirajshiwarkar12a@gmail.com" target="_blank">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail"/>
+  &nbsp;&nbsp;
+  <a href="mailto:adirajshiwarkar12a@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Gmail" />
   </a>
 </p>
 
-️ Thanks for visiting my GitHub!
+---
+
+
+
+
+
+
+
 
 
 
