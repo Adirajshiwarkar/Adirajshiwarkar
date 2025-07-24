@@ -11,11 +11,7 @@ I'm Adiraj Shiwarkar, an AI/ML developer passionate about building intelligent, 
 
 ---
 
-### 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdirajShiwarkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-</p>
 
 ### 📊 Languages Used
 
