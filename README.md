@@ -68,7 +68,7 @@ I'm Adiraj Shiwarkar, an AI/ML developer passionate about building intelligent, 
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adiraj-shiwarkar-9612a3269/" target="_blank">
+  <a href="https://www.linkedin.com/in/adirajshiwarkar/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
@@ -77,7 +77,6 @@ I'm Adiraj Shiwarkar, an AI/ML developer passionate about building intelligent, 
   </a>
 </p>
 
----
 
 
 
