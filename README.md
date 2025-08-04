@@ -72,7 +72,7 @@ I'm Adiraj Shiwarkar, an AI/ML developer passionate about building intelligent, 
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:adirajshiwarkar12a@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=adirajshiwarkar12a@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Gmail" />
   </a>
 </p>
